@@ -1,6 +1,6 @@
 ### Index
 
-* [0 - Language Agnostic](#1-language-agnostic)
+* [0 - Language Agnostic](#0---language-agnostic)
   * [Open Source Ecosystem](#open-source-ecosystem)
   * [Облачные Вычисления](#Облачные-вычисления)
   * [Парадигмы Программирования](#Парадигмы-программирования)
@@ -29,6 +29,7 @@
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
+  * [Django](#django)
 * [R](#r)
 * [Reverse engineering](#reverse-engineering)
 * [Ruby](#ruby)
@@ -78,6 +79,7 @@
 * [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
 * [Микропроцессоры и вычислительные комплексы семейства "Эльбрус"](http://www.mcst.ru/doc/book_121130.pdf) (PDF)
 * [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf) (PDF)
+* [Цифровая схемотехника и архитектура компьютера](https://community.imgtec.com/downloads/digital-design-and-computer-architecture-russian-edition-second-edition) - Дэвид Харрис, Сара Харрис *(требуется учетная запись)*
 
 
 ### Bash
@@ -153,7 +155,7 @@
 ### Haskell
 
 * [Developing Web Applications with Haskell and Yesod](https://bitbucket.org/darkus/yesod/downloads) - Майкл Сноймен
-* [О Haskell по-человечески](http://ohaskell.dshevchenko.biz/ru/index.html) - Денис Шевченко
+* [О Haskell по-человечески](https://www.ohaskell.guide) - Денис Шевченко
 * [Учебник по Haskell](http://anton-k.github.io/ru-haskell-book/book/home.html) - Антон Холомьёв
 
 
@@ -165,7 +167,6 @@
 ### Lisp
 
 * [Lisp In Small Pieces (translation)](https://github.com/ilammy/lisp)
-* [Practical Common Lisp(translation)](http://lisper.ru/pcl/)
 
 
 ### MetaPost
@@ -173,14 +174,9 @@
 * [Создание иллюстраций в MetaPost](http://www.inp.nsk.su/~baldin/mpost/index.html)
 
 
-### Misc
-
-* [Не мешайте мне работать!](http://motivateme.ru/book/) - Стас Давыдов
-
-
 ### NoSQL
 
-* [Маленькая книга о MongoDB](http://jsman.ru/mongo-book/index.html)
+* [Маленькая книга о MongoDB](http://www.pvsm.ru/download/mongodb-ru.pdf) (PDF)
 * [Маленькая книга о Redis](https://github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md)
 
 
@@ -200,6 +196,8 @@
 
 ### PHP
 
+* CodeIgniter Framework
+  * [CodeIgniter 2.1.3](http://php5.kiev.ua/codeigniter/)
 * [PHP: Правильный Путь](http://getjump.github.io/ru-php-the-right-way/)
 * [Руководство по PHP](http://docs.php.net/manual/ru/)
 * [Самоучитель (учебник) по PHP](http://www.php-s.ru/self-teacher/)
@@ -211,6 +209,11 @@
 * [Вглубь языка Python](http://ru.diveintopython.net/toc.html)
 * [Укус Питона](http://wombat.org.ua/AByteOfPython/) - Swaroop C H
 * [Учебник Python 2.6](http://ru.wikibooks.org/wiki/Учебник_Python_2.6)
+
+
+#### Django
+
+* [Руководство Django Girls](https://tutorial.djangogirls.org/ru/) (1.11) (HTML) (:construction: *in process*)
 
 
 ### PostgreSQL
@@ -251,6 +254,8 @@
 
 ### Rust
 
+* [Rust на примерах](https://rurust.github.io/rust-by-example-ru/)
+* [Растономикон](https://github.com/ruRust/rustonomicon)
 * [Язык программирования Rust](http://rurust.github.io/rust_book_ru/)
 
 

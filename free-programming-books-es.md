@@ -69,9 +69,8 @@
 #### Base de Datos
 
 * [Apuntes de Base de Datos 1, Universidad de Alicante](http://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf) (PDF)
-* [Base de Datos](http://www.uji.es/bin/publ/edicions/bdatos.pdf) - Mercedes Marqués (PDF)
+* [Base de Datos](http://www.uoc.edu/masters/oficiales/img/913.pdf) - Mercedes Marqués (PDF)
 * [Base de Datos Avanzadas](http://repositori.uji.es/xmlui/bitstream/handle/10234/48034/s73.pdf) - Aramburu & Sanz Blasco (PDF)
-* [El modelo relacional y el álgebra relacional](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02148.pdf) (PDF)
 * [Introducción a las Bases de Datos](http://ocw.uoc.edu/computer-science-technology-and-multimedia/bases-de-datos/bases-de-datos/P06_M2109_02147.pdf) (PDF)
 
 
@@ -90,7 +89,7 @@
 
 * [Compendio de Ingeniería del Software](http://www.navegapolis.com/files/cis.pdf) (PDF)
 * [Diseño Ágil con TDD](http://www.carlosble.com/libro-tdd/?lang=es)
-* [Ingeniería de Software: Una Guía para Crear Sistemas de Información](http://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf) (PDF)
+* [Ingeniería de Software: Una Guía para Crear Sistemas de Información](https://web.archive.org/web/20150824055042/http://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf) (PDF)
 * [Metodologías Ágiles para el Desarrollo de Software](http://www.desarrolloweb.com/manuales/metodologias-agil-desarrollo-software.html)
 * [Scrum & Extreme Programming (para programadores)](https://web.archive.org/web/20140209204645/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf) (PDF)
 * [Scrum y XP desde las trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) (PDF)
@@ -100,13 +99,11 @@
 
 * [97 cosas que todo programador debería saber](http://97cosas.com/programador/)
 * [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/)
-* [Programación de videojuegos SDL](http://www.albertogarcia.info/libros/sdl/%5Bebook%5DProgramacion%20de%20videojuegos%20con%20SDL.pdf) (PDF)
-* [Videojuegos Multiplataforma con OpenFL](http://www.openflbook.com)
+* [Programación de videojuegos SDL](http://libros.metabiblioteca.org/bitstream/001/271/8/Programacion_Videojuegos_SDL.pdf) (PDF)
 
 
 #### Paradigmas de Programación
 
-* [Programación Concurrente y Tiempo Real](http://www.libropctr.com)
 * [Programación Funcional](http://www.staff.science.uu.nl/~fokke101/courses/fp-sp.pdf) (PDF)
 
 
@@ -188,8 +185,7 @@
 
 * [Aprendiendo Java](http://www.decom-uv.cl/~roberto/apuntes/java/AprendiendoJava.pdf) (PDF)
 * [Arquitectura Java Sólida](http://www.arquitecturajava.com)
-* [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/pdf/libroJavaConTapa.pdf) (PDF)
-* [Guía Java para Docentes](http://ignaciolasalvia.com/material/prog1_2013/GuiaJavaparaDocentes2012.pdf) (PDF)
+* [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/libroJava.pdf) (PDF)
 * [Notas de Introducción al Lenguaje de Programación Java](http://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Jorge L. Ortega Arjona, UNAM (PDF)
 * [OCPJP6 Resumen Español](https://github.com/PabloReyes/ocpjp-resumen-espanol) - Pablo Reyes Almagro (PDF)
 * [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/areas/publicaciones/476/pensando-la-computacion-como-un-cientifico.html)
@@ -204,6 +200,7 @@
 * [Introducción a AJAX](http://librosweb.es/libro/ajax/)
 * [Introducción a JavaScript](http://librosweb.es/libro/javascript/)
 * [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es)
+* [JavaScript, ¡Inspírate!](https://github.com/UlisesGascon/javascript-inspirate)
 * [JavaScript Para Gatos](https://jsparagatos.com)
 
 
@@ -236,7 +233,7 @@
 ### Linux
 
 * [Bases de la programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html)
-* [BASH Scripting Avanzado: Utilizando declare para definición de tipo](http://library.originalhacker.org/biblioteca/articulo/ver/123)
+* [BASH Scripting Avanzado: Utilizando declare para definición de tipo](https://web.archive.org/web/20150307181233/http://library.originalhacker.org:80/biblioteca/articulo/ver/123)
 * [Debian GNU/Linux para administradores](https://debian-handbook.info/browse/es-ES/stable/)
 * [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) en WikiBooks
 
@@ -268,7 +265,6 @@
 
 ### Perl
 
-* [Manual de Perl](http://www6.uniovi.es/perl/tutor/) - Universidad de Oviedo, España
 * [Tutorial de introducción a perl](http://flanagan.ugr.es/perl/index2.htm) - Universidad de Granada, España
 * [Tutorial Perl](http://es.tldp.org/Tutoriales/PERL/tutoperl-print.pdf) - TLDP (PDF)
 * [Tutorial Perl](http://kataix.umag.cl/~ruribe/Utilidades/Tutorial%20de%20Perl.pdf) - Universidad de Magallanes, Chile (PDF)
@@ -277,10 +273,10 @@
 
 ### Python
 
-* [Aprenda a pensar como un programador (con Python)](http://arawako.com/wp-content/uploads/2010/03/thinkCSpy.es_.pdf) (PDF)
+* [Aprenda a pensar como un programador (con Python)](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf) (PDF)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/)
 * [Inmersión en Python](http://es.diveintopython.net/toc.html)
-* [Inmersión en Python 3](http://inmersionenpython3.googlecode.com/files/inmersionEnPython3.0.11.pdf) (PDF)
+* [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) (PDF)
 * [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) (PDF)
 * [Introducción a la programación con Python](http://www.cmat.edu.uy/cmat/cursos/licenciatura/cursos/computacion/documentos/Introduccion%20a%20la%20programacion%20con%20Python.pdf/at_download/file) (PDF)
 * [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/)
@@ -289,6 +285,11 @@
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/curso-python-cientifico)
 * [Python para principiantes](https://web.archive.org/web/20150421012120/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf) (PDF) [(HTML)](http://librosweb.es/libro/python/)
 * [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) (PDF)
+
+
+#### Django
+
+* [Tutorial de Django Girls](https://tutorial.djangogirls.org/de/) (1.11) (HTML) (:construction: *in process*)
 
 
 #### Web2py
@@ -306,7 +307,6 @@
 
 #### Ruby on Rails
 
-* [El maldito libro de los Descarrilados](http://yottabi.com/mld.pdf) (PDF)
 * [Introducción a Rails](http://rubysur.org/introduccion.a.rails/)
 
 
@@ -325,7 +325,7 @@
 ### Scala
 
 * [Manual de Scala para programadores Java](http://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf) (PDF)
-* [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) (En proceso)
+* [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) *(:construction: En proceso)*
 
 
 ### SQL

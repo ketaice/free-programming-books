@@ -1,6 +1,5 @@
 ### Índice
 
-* [Android](#android)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
@@ -13,19 +12,16 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
+* [LISP](#lisp)
 * [Lua](#lua)
 * [Perl](#perl)
 * [PHP](#php)
 * [Python](#python)
+  * [Django](#django)
 * [RegEx](#regex)
 * [Ruby](#ruby)
 * [Shell Script](#shell)
 * [Vim](#vim)
-
-
-### Android
-
-* [Desenvolvimento Mobile com Android](http://www.k19.com.br/downloads/apostilas/java/k19-k41-desenvolvimento-mobile-com-android) - K19
 
 
 ### C
@@ -42,14 +38,13 @@
 ### C Sharp
 
 * [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) - Caelum
-* [C# e Orientação a Objetos](http://www.k19.com.br/downloads/apostilas/dotnet/k19-k31-csharp-e-orientacao-a-objetos) - K19
-* [Desenvolvimento Web com ASP.NET MVC](http://www.k19.com.br/downloads/apostilas/dotnet/k19-k32-desenvolvimento-web-com-aspnet-mvc) - K19
 
 
 ### C++
 
 * [Apostila Linguagem C++](http://www.ime.usp.br/~slago/slago-C++.pdf) - Silvio Lago (PDF)
-* [Programação Orientada a Objetos em C++](http://www.filoczar.com.br/sistemas_operacionais/linux/cpppara_linux.pdf) (PDF)
+* [Estrutura de Dados](http://calhau.dca.fee.unicamp.br/wiki/images/0/01/EstruturasDados.pdf) (PDF)
+* [Programação Orientada a Objetos em C++](http://webserver2.tecgraf.puc-rio.br/~manuel/Download/Programacao%20Orientada%20a%20Objetos%20em%20C++.pdf) (PDF)
 
 
 ### Engenharia de Software
@@ -63,12 +58,13 @@
 
 #### Outros
 
+* [CI - Integração Contínua Sem Desculpa](https://ci.mrprompt.com.br)
 * [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/)
 
 
 ### Git
 
-* [Aprendendo Git](http://www.slideshare.net/bismarckjunior/aprendendo-git)
+* [Apostila Git - UFPR](http://www.pet.est.ufpr.br/apostila/apostila_git.pdf) (PDF)
 * [Git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
 * [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) - LTIA UNESP
@@ -93,30 +89,32 @@
 ### Java
 
 * [Algoritmos e Estruturas de Dados com Java](http://www.caelum.com.br/apostila-java-estrutura-dados/) - Caelum
-* [Desenvolvimento Web Avançado com JSF 2, EJB 3.1 e CDI](http://www.k19.com.br/downloads/apostilas/java/k19-k22-desenvolvimento-web-avancado-com-jsf2-ejb3.1-e-cdi) - k19
-* [Desenvolvimento Web com JSF 2 e JPA 2](http://www.k19.com.br/downloads/apostilas/java/k19-k12-desenvolvimento-web-com-jsf2-e-jpa2) - K19
-* [Desenvolvimento Web com Struts](http://www.k19.com.br/downloads/apostilas/java/k19-k52-desenvolvimento-web-com-struts) - K19
-* [Design Patterns em Java](http://www.k19.com.br/downloads/apostilas/java/k19-k51-design-patterns-em-java) - K19
-* [Integração de Sistemas com Webservices, JMS e EJB](http://www.k19.com.br/downloads/apostilas/java/k19-k23-integracao-de-sistemas-com-webservices-jms-e-ejb) - K19
+* [Desenvolvimento Distribuído com JavaEE](https://www.gitbook.com/book/rafaelsakurai/desenvolvimento-distribuido) - Rafael Guimarães Sakurai
 * [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/books/intro-java-cc.pdf) (PDF)
 * [Java e Orientação a Objetos](http://www.caelum.com.br/apostila-java-orientacao-objetos/) - Caelum
 * [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/) - Caelum
 * [Lab. Java com Testes, JSF e Design Patterns](https://www.caelum.com.br/apostila-java-testes-jsf-web-services-design-patterns/) - Caelum
-* [Orientação a objetos em Java](http://www.k19.com.br/downloads/apostilas/java/k19-k11-orientacao-a-objetos-em-java) - K19
-* [Persistência com JPA 2 e Hibernate](http://www.k19.com.br/downloads/apostilas/java/k19-k21-persistencia-com-jpa2-e-hibernate) - K19
 * [Web ágil com VRaptor, Hibernate e AJAX](http://www.caelum.com.br/apostila-vraptor-hibernate/) - Caelum
 
 
 ### JavaScript
 
 * [Eloquente Javascript](https://github.com/braziljs/eloquente-javascript)
+* [EXPERT JS Stack](http://stack.desenvolvedor.expert)
+* [Guia JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
 * [JavaScript Frameworks/Bibliotecas e Livros](javascript-frameworks-resources-pt_BR.md)
 * [JS: A forma certa](http://jstherightway.org/pt-br/)
 
 
 ### LaTeX
 
+* [Breve Introdução ao LaTeX2e](http://www.if.ufrj.br/~sandra/MetComp/doc/latex.pdf) - Lenimar Nunes de Andrade (PDF)
 * [Introdução ao LaTeX 2 - Ou LaTeX 2 em 105 minutos](http://ctan.org/pkg/lshort-portuguese-br)
+
+
+### LISP
+
+* [Introdução a linguagem LISP](http://www.dca.fee.unicamp.br/courses/EA072/lisp9596/Lisp9596.html) (HTML)
 
 
 ### Lua
@@ -132,21 +130,28 @@
 ### PHP
 
 * [A semana PHP](http://asemanaphp.com.br)
+* [Api REST Com Silex no GAE](http://bit.ly/ebook-silex) - Nanderson Castro (PDF, EPUB, MOBI)
 * [CakePHP](http://book.cakephp.org/2.0/pt/index.html)
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) (PDF)
-* [Laravel - O Framework PHP para os Artesãos da Web](http://laravel.artesaos.org)
 * [PHP Do jeito certo](http://br.phptherightway.com)
+* [PHPUnit](https://phpunit.de/manual/current/pt_br/index.html) (PDF, EPUB, MOBI)
 
 
 ### Python
 
 * [Aprenda computação com Python](https://aprendendo-computacao-com-python.readthedocs.org/en/latest/index.html)
+* [Aprenda Python Básico - Rápido e Fácil de entender](http://felipegalvao.com.br/livros) (PDF / Epub)
 * [Curso de Python e Django](https://osantana.me/curso-de-python-e-django)
 * [Django 101 - Introdução ao Django](http://turing.com.br/material/acpython/mod3/django/index.html)
 * [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
-* [Python Orientado a Objetos](http://www.dcc.ufrj.br/~fabiom/mab225/pythonoo.pdf) (PDF)
+* [Python Orientado a Objetos](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxyYWZhZWx1ZnR8Z3g6NTJlM2UzYzY1ZTgzMDEwMw) (PDF)
 * [Python para Desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) (PDF)
 * [Tutorial Django Girls](http://tutorial.djangogirls.org/pt/)
+
+
+#### Django
+
+* [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/) (1.11) (HTML) (:construction: *in process*)
 
 
 ### RegEx
@@ -167,6 +172,7 @@
 
 * [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) - Aurelio Marinho Jargas (PDF)
 * [Pequena introdução ao linux e ao Shell Script ](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF)
+* [Shell Script do Zero](http://metamorphoselinux.net/Shell_Script_do_Zero.pdf) (PDF)
 
 
 ### Vim
