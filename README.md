@@ -23,6 +23,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### In Other Spoken Languages
 + [Arabic](/free-programming-books-ar.md)
 + [Azerbaijani](/free-programming-books-az.md)
++ [Bengali](/free-programming-books-bl.md)
 + [Bulgarian](/free-programming-books-bg.md)
 + [Burmese](/free-programming-books-mm.md)
 + [Chinese](/free-programming-books-zh.md)
@@ -59,7 +60,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 
 ### Interactive Programming Resources
-+ [Free interactive programming tutorials](/free-programming-interactive-tutorials-en.md)
++ [English](/free-programming-interactive-tutorials-en.md)
++ [Russian](/free-programming-interactive-tutorials-ru.md)
 
 
 ### JavaScript Frameworks and Resources
